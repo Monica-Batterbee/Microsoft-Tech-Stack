@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition and Aggregation", "Composition and Aggregation\Composition and Aggregation.csproj", "{ABE9F16C-3110-4A16-B30B-A5BDAF556B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE9F16C-3110-4A16-B30B-A5BDAF556B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE9F16C-3110-4A16-B30B-A5BDAF556B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE9F16C-3110-4A16-B30B-A5BDAF556B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE9F16C-3110-4A16-B30B-A5BDAF556B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A4A450-E085-4974-AE50-75E0B6AF2B24}
+	EndGlobalSection
+EndGlobal
